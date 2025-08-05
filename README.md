@@ -142,16 +142,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. **PowerShell command issues**
    - Use individual commands instead of `&&` operator
    - Or use the npm scripts provided
-
-### Getting Help
-
-- Check the [Issues](https://github.com/yourusername/ai-email-sender/issues) page
-- Create a new issue if you encounter problems
-
-## 📸 Screenshots
-
-![AI Email Sender Interface](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
-
----
-
-⭐ **Star this repository if you found it helpful!**
