@@ -3,7 +3,8 @@ import axios from 'axios';
 import { FiMail, FiSend, FiEdit3, FiUsers } from 'react-icons/fi';
 import './App.css';
 
-const API_BASE = 'http://localhost:5000/api';
+// Use relative path for API calls to work on both local and deployed
+const API_BASE = '/api';
 
 function App() {
   const [recipients, setRecipients] = useState('');
